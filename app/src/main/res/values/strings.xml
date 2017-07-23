@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="title_task_create">Create Task</string>
+    <string name="title_task_update">Update Task</string>
+    <string name="title_task_listing">Tasks</string>
+    <string name="done">Done</string>
+    <string name="okay">Okay</string>
+    <string name="error_empty_task_details">Task details can not be empty!</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="enter_task_details">Enter task details</string>
+    <string name="delete">Delete</string>
+    <string name="task_deleted">Task Deleted</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="are_you_sure">Are you sure?</string>
+</resources>
